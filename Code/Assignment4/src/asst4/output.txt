@@ -1,0 +1,5 @@
+chicken, black, 2, female
+horse, brown, 3, male
+lamb, white, 4, male
+goat, brown, 5, male
+cow, white, 7, female

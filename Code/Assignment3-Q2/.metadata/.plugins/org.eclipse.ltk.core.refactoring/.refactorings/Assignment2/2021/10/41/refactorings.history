@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;&apos; to &apos;asst2.MyShapes.addFileContent()&apos;&#x0D;&#x0A;- Original project: &apos;Assignment 2&apos;&#x0D;&#x0A;- Destination element: &apos;asst2.MyShapes.addFileContent()&apos;&#x0D;&#x0A;- Original element: &apos;asst2.MyShapes.addFileContent()&apos;" description="Copy method" destination="/src&lt;asst2{MyShapes.java[MyShapes~addFileContent" element1="/src&lt;asst2{MyShapes.java[MyShapes~addFileContent" flags="589830" id="org.eclipse.jdt.ui.copy" members="1" policy="org.eclipse.jdt.ui.copyMembers" stamp="1633596249117" version="1.0"/>
+</session>

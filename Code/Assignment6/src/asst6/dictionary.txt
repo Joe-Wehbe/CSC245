@@ -1,0 +1,6 @@
+Pen: Tool used to write
+Chair: Piece of furniture that serves as a seat
+Bed: Piece of furniture for sleep or rest
+Table: Where elements are stored in rows and columns
+Human Being: Evolved homosapien
+Table: Piece of furniture that serves for eating and working

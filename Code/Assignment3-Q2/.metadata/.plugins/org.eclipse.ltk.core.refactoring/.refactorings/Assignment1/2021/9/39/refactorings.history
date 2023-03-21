@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;indexArray&apos; in &apos;assignment1.Company.raiseSalary()&apos; to &apos;indices&apos;&#x0D;&#x0A;- Original project: &apos;Assignment1&apos;&#x0D;&#x0A;- Original element: &apos;assignment1.Company.raiseSalary().indexArray&apos;&#x0D;&#x0A;- Renamed element: &apos;indexArray&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;indexArray&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;assignment1{Company.java[Company~raiseSalary@indexArray!7317!7350!7321!7330!\[I!0!false" name="indices" references="true" stamp="1632561104712" version="1.0"/>
+</session>
