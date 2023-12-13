@@ -1,2 +1,2 @@
 # CSC245
-This is a repository for the assignments that I have done for the CSC245 course (Objects and Data Abstraction). You can download the questions from the repository under the 'Assignments' folder.
+This repository contains the assignments that I have completed for the Objects and Data Abstraction course (CSC245). You can access the instructions of the assignments under the `Assignments` folder.
